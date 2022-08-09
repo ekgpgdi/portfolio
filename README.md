@@ -1,10 +1,12 @@
 # 이다혜 포트폴리오
-...
+> <b>아 바쁘다 바뻐 현대사회! </b><br/>
+> 바쁠수록 쾌감을 느끼는 저는 남들과 함께 할 때 더욱 빠르게 달릴 수 있습니다. 🏃🏻‍♀️ <br/>
  <br/>
+ 
 ## 👋🏻 Intro
 안녕하세요. 백엔드 개발자의 꿈을 가지고 달리고 있는 이다혜입니다. <br/>
 저는 사람들과 만나는 것을 좋아하며 남들 하는 것은 다 하고 싶어하는 욕심쟁이입니다. <br/>
-제 이력서를 보시려면 [이다혜 이력서](https://ddori.notion.site/ddori-8a1edf4dd8ff44baa563389f06ed3f5f)로 와주세요! <br/>
+제 이력서는 [이다혜 이력서](https://ddori.notion.site/ddori-8a1edf4dd8ff44baa563389f06ed3f5f) 에서 확인 가능합니다. <br/>
  <br/>
  
 ## 🙇🏻‍♀️ Contact 
@@ -20,6 +22,8 @@
 > 개발 기간 : 2022.06.24 ~ 2022.07.29 <br/>
 >
 > 기술 스택: <br/>
+> Java11 / Spring Boot 2.7.1 / Gradle 7.4.1 / Spring Data JPA / H2 / MySQL 8.0.29 <br/>
+> Spring Security / JWT / Spring Cloud Eureka / RabbitMQ / Swagger<br/>
 >
 > [프로젝트 상세 설명](https://github.com/ekgpgdi/devit) 참고
 ---------------------------------
@@ -29,7 +33,8 @@
 > 개발 기간 : 2022.06.07 ~ 2022.06.21 <br/>
 >
 > 기술 스택: <br/>
->
+> Java17 / Spring Boot 2.7.0 / Gradle 7.4.1 / Spring Data JPA / H2 / MySQL 8.0.29 <br/>
+> Spring Security / JWT  <br/> <br/>
 > [프로젝트 상세 설명](https://github.com/ekgpgdi/drop) 참고
 ---------------------------------
  

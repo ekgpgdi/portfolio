@@ -17,6 +17,7 @@
  <br/>
 
 ## 👩🏻‍💻 Projects
+[Notion 으로 보기](https://ddori.notion.site/1c667f85d8804797808e8041056b507b?v=e159a8fbf97c4ef48f67ffb88801ce1d)
 ### 1. [DevIT](https://devit.shop/)
 > 개발자 구인 구직 서비스 (팀 프로젝트) <br/>
 > 개발 기간 : 2022.06.24 ~ 2022.07.29 <br/>

@@ -42,7 +42,7 @@
 > 개발자 구인 구직 플랫폼 (팀 프로젝트) <br/>
 > 개발 기간 : 2022.05.06 ~ 2022.05.12 <br/>
 >
-> 기술 스택: <br/>
+> 기술 스택: Python 3.8 / Flask / boto3 / requests / pymongo 4.1.1 / Jinja2 <br/>
 >
 > [프로젝트 상세 설명](https://github.com/ekgpgdi/develop-it) 참고
 ---------------------------------
@@ -51,7 +51,7 @@
 > 무신사 모델들의 브랜드 스냅을 가져와 댓글을 남겨 의견을 표출하는 커뮤니티 서비스 <br/>
 > 개발 기간 : 2022.04.20 ~ 2022.04.22 <br/>
 >
-> 기술 스택: <br/>
+> 기술 스택: Python 3.8 / Flask / bs4 / requests / pymongo 4.1.1 / Jinja2 <br/>
 >
 > [프로젝트 상세 설명](https://github.com/ekgpgdi/fashiony) 참고
 ---------------------------------
@@ -70,4 +70,4 @@
 ### 7. B2C 프로젝트의 Slack bot
 > 인턴 생활 중 투입되었던 프로젝트의 Slack Bot  <br/>
 > 개발 기간 : 2021.08 ~ 2021.12 <br/>
-> 기술 스택 :  <br/>
+> 기술 스택 : Python 3.8 / PyMySql 0.9.3 / slack-sdk 3.8.0 / serverless framework <br/>
